@@ -1,0 +1,76 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    font-family: sans-serif;
+    font-family: sans-serif;
+}
+
+main {font-family: sans-serif;}
+footer {font-family: sans-serif;}
+main {background-color: #fcf3f7;}
+nav a {color: #8E2861;}
+nav ul {color: #FDEFF7;}
+
+h2 {
+display: flex;
+justify-content: center;
+font-size: larger;
+}
+
+
+h2 {padding: 0.3em;
+    border: 0.1rem solid rgb(94, 25, 84);
+    color: rgb(94, 25, 84);
+    text-align: center
+    }
+
+
+h4 {color: #8E2861;
+}
+
+    
+
+footer ul {
+    padding: 0.8em;
+    display: flex;
+    justify-content: center;
+    background-color: #8E2861;
+    }
+
+footer li {
+        margin-right: 2em;
+        }
+
+
+img {max-width: 10em;}
+
+
+.BEKIJK {font-style: oblique;}
+
+.speciaal {text-align: center;}
+
+.over {text-align: center;}
+
+.afrekenen {font-style: italic;
+}
+
+
+
+
+.merch {
+    padding: 0.2em;
+    border-radius: 0.2em;
+    text-decoration-line: underline;
+    transition: all 200ms ease;
+    }
+    
+    .merch:hover {
+    background: #CBFFA8;
+    padding: 0.3em;
+    border-radius: 10em;
+    transform: scale(1);
+    }
+
+
+
